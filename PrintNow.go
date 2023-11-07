@@ -6,6 +6,6 @@ import (
 )
 
 func PrintNow()  {
-	fmt.Println("version B_0")
+	fmt.Println("version B_v0")
 	fmt.Println(time.Now())
 }
